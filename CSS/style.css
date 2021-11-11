@@ -1,0 +1,43 @@
+h1 {
+    color: #9c9a0c;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: rgb(69, 79, 83);
+}
+header {
+    border: solid hsl(32, 84%, 15%);
+    padding: 10px 10px 10px 10px;
+    margin: 50px;
+    text-align: justify;
+}
+
+body {
+    background: rgb(134, 226, 226);
+    font-size: 20px;
+    text-align: justify;
+    background-image: url(/IMG/picture.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    
+}
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+.underline {
+    text-decoration: underline;
+}
+.line-throgh {
+    text-decoration: line-through;
+}
